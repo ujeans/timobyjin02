@@ -1,4 +1,4 @@
-### Hi there 👋
+### ujin's GitHub 👋
 
 <br>
 <div align=center>
