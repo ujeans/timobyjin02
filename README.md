@@ -8,9 +8,9 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logoColor=white&logo=Blogger&link=https://timobyjin.tistory.com/)](https://timobyjin.tistory.com/)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=notion&link=https://www.notion.so/ME-6eda98bc465c4c4093be6a68cb1f6869)](https://www.notion.so/ME-6eda98bc465c4c4093be6a68cb1f6869)
+<!--[![Tech Blog Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=notion&link=https://www.notion.so/ME-6eda98bc465c4c4093be6a68cb1f6869)](https://www.notion.so/ME-6eda98bc465c4c4093be6a68cb1f6869)-->
 
-
+[![timobyjin](http://mazassumnida.wtf/api/mini/generate_badge?boj=timobyjin)](https://solved.ac/timobyjin)
   
 <br><br>
 
