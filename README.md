@@ -12,6 +12,9 @@
 
 [![timobyjin](http://mazassumnida.wtf/api/mini/generate_badge?boj=timobyjin)](https://solved.ac/timobyjin)
   
+![Snake](https://github.com/timobyjin02/overtae/blob/output/github-snake.svg#gh-light-mode-only)
+![Snake](https://github.com/timobyjin02/overtae/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+  
 <br><br>
 <a href="https://opgc.me/#/users/timobyjin02" target="_blank"><img src="https://api.opgc.me/githubs/users/timobyjin02/tag/?theme=rainbow" style="height:150px;" /></a>
   
