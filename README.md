@@ -2,10 +2,8 @@
 
 <br>
 <div align=center>
-  
 
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2timobyjin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br><br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logoColor=white&logo=Blogger&link=https://timobyjin.tistory.com/)](https://timobyjin.tistory.com/)
 
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=notion&link=https://www.notion.so/ME-6eda98bc465c4c4093be6a68cb1f6869)](https://www.notion.so/ME-6eda98bc465c4c4093be6a68cb1f6869)-->
