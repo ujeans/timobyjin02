@@ -16,10 +16,10 @@ jobs:
         - name: generate github-snake.svg
           uses: Platane/snk@v2
           with:
-            github_user_name: timobyjin02 
+            github_user_name: timobyjin02
             outputs: |
-              dist/github-snake.svg?color_snake=rgb(143, 197, 248)&color_dots=#ff,#FFEFA0,#FFE27D,#FFDB6B,#FFC74F
-              dist/github-snake-dark.svg?color_snake=#FFDB6B&color_dots= rgb(14, 77, 136),rgb(210, 232, 252),rgb(158, 210, 255),rgb(110, 180, 241),rgb(59, 156, 247)
+              dist/github-snake.svg?color_snake=#8ADBD9&color_dots=#FFFFE3,#FFEFA0,#FFE27D,#FFDB6B,#FFC74F
+              dist/github-snake-dark.svg?color_snake=#FFDB6B&color_dots=#375073,#99F2F1,#8ADBD9,#78BFBE,#267371
         - name: push github-contribution-grid-snake.svg to the output branch
           uses: crazy-max/ghaction-github-pages@v2.6.0
           with:
