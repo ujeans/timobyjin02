@@ -15,8 +15,8 @@
 <a href="https://github.com/devpla/github-stats-transparent">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timobyjin02&layout=compact&theme=prussian" width=41.0% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=timobyjin02&theme=react-dark" width=90%/>
-</a>
+</a>-->
   
 </div>
