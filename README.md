@@ -7,8 +7,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=notion&link=https://www.notion.so/ME-6eda98bc465c4c4093be6a68cb1f6869)](https://www.notion.so/ME-6eda98bc465c4c4093be6a68cb1f6869)<br><br>
 <!--[![timobyjin](http://mazassumnida.wtf/api/mini/generate_badge?boj=timobyjin)](https://solved.ac/timobyjin)<br><br>-->
 ![snake gif](https://github.com/timobyjin02/timobyjin02/blob/output/github-contribution-grid-snake.svg)
-![Snake](https://github.com/timobyjin02/timobyjin02/blob/output/github-snake.svg#gh-light-mode-only)
-![Snake](https://github.com/overttimobyjin02ae/timobyjin02/blob/output/github-snake-dark.svg#gh-dark-mode-only)
   
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timobyjin02&layout=compact&langs_count=6" style="height:150px;border-radius:50px;" /></a>
 <a href="https://opgc.me/#/users/timobyjin02" target="_blank"><img src="https://api.opgc.me/githubs/users/timobyjin02/tag/?theme=rainbow" style="height:150px;" /></a>
