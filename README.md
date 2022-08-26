@@ -1,6 +1,6 @@
 
 hello
-<!--<br>
+<br>
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logoColor=white&logo=Blogger&link=https://timobyjin.tistory.com/)](https://timobyjin.tistory.com/)
@@ -16,4 +16,4 @@ hello
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timobyjin02&layout=compact&theme=prussian" width=41.0% />
 </a>
    
-</div>->
+</div>
