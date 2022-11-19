@@ -2,7 +2,7 @@
 > 안녕하세요 개발자를 꿈꾸고 있는 홍유진입니다 
 - 현재는 함께 개발하는 즐거움을 알아가는 중입니다.
   - [studying](https://ujins.notion.site/Tech-Blog-efaaca378dd842a5ae57ca75a06fca91) - React, JavaScript, TypeScript, Nextjs, CS, SCSS, Java, Nodejs
-  - projects - clone coding Instagram, Studymate(study record program), Yeoreum(eetting Program)
+  - projects - clone coding Instagram, Studymate(study record program), Yeoreum(meetting Program)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftimobyjin02&count_bg=%23000000&title_bg=%23F71717&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
