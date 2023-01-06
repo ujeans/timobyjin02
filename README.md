@@ -1,6 +1,5 @@
 ### ☃️ timobyjin 
 > 안녕하세요 개발자를 꿈꾸고 있는 홍유진입니다.
-- 현재는 함께 개발하는 즐거움을 알아가는 중입니다.
   - [studying](https://ujins.notion.site/Tech-Blog-efaaca378dd842a5ae57ca75a06fca91) - React, JavaScript, TypeScript, Nextjs, CS, SCSS, Java, Nodejs, SQL
   - projects - clone coding Instagram, Studymate(study record program), Yeoreum(meeting program)
 
